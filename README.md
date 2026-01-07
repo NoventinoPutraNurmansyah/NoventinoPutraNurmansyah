@@ -10,7 +10,7 @@
 <a href="https://instagram.com/xvenz-lawrence" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xvenz-lawrence" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently studyng at **SMK N 1 Pundong**
+- 🔭 I’m currently work as IT Support
 
 - 🌱 I’m currently learning **CyberSecurity**
 
